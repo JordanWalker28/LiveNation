@@ -1,0 +1,17 @@
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\RuleResponseGenerator.dll
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\bin\Debug\netcoreapp3.1\RuleResponseGenerator.pdb
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CopyComplete
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
+C:\Users\jordan.walker\source\repos\Testing\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache
